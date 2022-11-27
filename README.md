@@ -1,2 +1,3 @@
 # Spam-Recognizer-with-Flask-Heroku
-# Weblink: https://spam-recognizer.herokuapp.com/
+
+Recognizing a text if it is a spam or not.
